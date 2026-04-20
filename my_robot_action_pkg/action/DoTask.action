@@ -1,0 +1,6 @@
+int32 task_duration
+---
+bool success
+string message
+---
+float32 progress
